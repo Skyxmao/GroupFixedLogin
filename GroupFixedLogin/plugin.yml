@@ -1,0 +1,8 @@
+name: GroupFixedLogin
+main: me.xmao.GroupFixedLogin.GroupFixedLogin
+version: 1.0
+author: XMAO
+commands:
+  fixedlogin: 
+    description: "fixedlogin"
+    usage: /fixedlogin
