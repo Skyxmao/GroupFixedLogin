@@ -1,0 +1,2 @@
+# GroupFixedLogin
+根据权限决定玩家上线地点的minecraft插件
